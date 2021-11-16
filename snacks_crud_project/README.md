@@ -17,4 +17,4 @@ associated url path is <int:pk>/update/
 + Create SnackDeleteView that extends appropriate generic view
 associated url path is <int:pk>/delete/
 
-[PR]()
+[PR](https://github.com/mohammadsilwadi/Django-crud/pull/1)
